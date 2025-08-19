@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 📱 Crypto Tracker App
 
 A simple and clean Flutter cryptocurrency tracker app that fetches live data from the CoinCap API and stores it locally using Sqflite for offline support.
