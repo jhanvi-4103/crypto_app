@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # coincap_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# crypto_app
+>>>>>>> 32fd35cf51c967e4922a1077b7c03e6efee73e8c
