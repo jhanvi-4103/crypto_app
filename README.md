@@ -22,7 +22,9 @@ A simple and clean Flutter cryptocurrency tracker app that fetches live data fro
 🛠️ Tech Stack
 
 Flutter (Dart)
+
 CoinCap API – for fetching live crypto data
+
 Sqflite – for storing data locally
 
 📂 Project Setup
@@ -35,6 +37,7 @@ cd crypto_app
 2. Install dependencies:
 
 flutter pub get
+
 3. Run the app:
 
 flutter run
